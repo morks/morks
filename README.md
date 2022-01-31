@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white|link=http://twitter.com/morksde)]
+![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+
 
 <!--
 **morks/morks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
