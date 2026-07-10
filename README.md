@@ -187,8 +187,6 @@ STATUS="Building things that shouldn't exist yet."
 ## `ping morks`
 
 [![Website](https://img.shields.io/badge/morks.de-Visit-6EFF3A?style=for-the-badge&logo=firefox&logoColor=black)](https://morks.de)
-[![Email](https://img.shields.io/badge/Accenture-michael.plaschke%40accenture.com-FF8C00?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:michael.plaschke@accenture.com)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-Stack_Sats-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://21map.de)
 
 </div>
 
