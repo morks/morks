@@ -54,6 +54,12 @@ STATUS="Building things that shouldn't exist yet."
 ![Azure](https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![STACKIT](https://img.shields.io/badge/STACKIT-%230066CC?style=for-the-badge&logo=stackexchange&logoColor=white)
+![MeshStack](https://img.shields.io/badge/MeshStack-CMP-%236EFF3A?style=for-the-badge&logo=meshcentral&logoColor=black)
+
+![Claude](https://img.shields.io/badge/Claude-Anthropic-%23FF8C00?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-%230d0d0d?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
@@ -187,6 +193,7 @@ STATUS="Building things that shouldn't exist yet."
 ## `ping morks`
 
 [![Website](https://img.shields.io/badge/morks.de-Visit-6EFF3A?style=for-the-badge&logo=firefox&logoColor=black)](https://morks.de)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-Stack_Sats-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://21map.de)
 
 </div>
 
